@@ -1,7 +1,8 @@
 ## Debug Challenge #6
 
 Open the file Debug6.cpp and fix the code. It's not working properly. 
-It's supposed to sort the defined array into ascending order (smallest to largest).
+It's supposed to sort the defined array into ascending order (smallest to largest).  
+Follow the instruction bellow to create a branch, edit your code, and create a pull request. THEN wait for feedback. Your code will not be merged int othe main because you are not the only person working off of this main file. You will know that your edits are okay when I enter your grade. Otherwise you should assume that something is wrong and I've sent you feedback.
 
 1. **Make a new Branch from the Main with your name.**
     1. **Click Here**
