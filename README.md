@@ -9,6 +9,6 @@ It's supposed to sort the defined array into ascending order (smallest to larges
     1. Type your name and hit enter to make a new branch  
     ![2](Screenshot2.png)
 1. Correct the code.
-    1. Click on the Debug6.cpp file
+    1. Click on the Debug6.cpp file  
     ![3](Screensho3.png)
 1. Commit the changes to your branch with an explanation of what was changed.
