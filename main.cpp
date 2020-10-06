@@ -3,9 +3,6 @@
 #include <string>
 using namespace std;
 
-//inconsequential change.
-// blah,blah,blah,blah
-
 /*
 This program is meant to take an array and put it into order
 It does this by moving along the array from "left-to-right"
