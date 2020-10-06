@@ -22,3 +22,5 @@ It's supposed to sort the defined array into ascending order (smallest to larges
     ![6](Screenshot6.png)
     1. **Create Pull Request**
     ![7](Screenshot7.png)
+1. **Wait for feedback**  
+1. **Respond to feedback**
