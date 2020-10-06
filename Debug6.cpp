@@ -17,7 +17,7 @@ meant to check if the code is actually in order.
 int arr[] = {20,12,65,45,98,65,85,12,54,78,55,13,50,19,84,20,43,10};
 int arrSize =  sizeof(arr)/sizeof(arr[0]);
 int main() {
-int temp;
+
   //Bit of code for sorting
   for (unsigned j=arrSize;j>0;j--){
     for (unsigned i=1;i<j;i++){
