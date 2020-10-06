@@ -11,14 +11,14 @@ It's supposed to sort the defined array into ascending order (smallest to larges
 1. **Correct the code.**
     1. **Click on the Debug6.cpp file**  
     ![3](Screensho3.png)
-    1. **Click on the edit button  
+    1. **Click on the edit button**  
     ![4](Screenshot4.png)
-    1. **Make your changes
-1. **Commit the changes to your branch with an explanation of what was changed.
-    1. **Commit them to your branch  
+    1. **Make your changes**
+1. **Commit the changes to your branch with an explanation of what was changed.**
+    1. **Commit them to your branch**  
     ![5](Screenshot5.png)
-    1. **Go back to your branch  
-    1. **Click the Compare and Pull Request button  
+    1. **Go back to your branch**  
+    1. **Click the Compare and Pull Request button**  
     ![6](Screenshot6.png)
-    1. **Create Pull Request
+    1. **Create Pull Request**
     ![7](Screenshot7.png)
