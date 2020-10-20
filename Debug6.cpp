@@ -15,6 +15,8 @@ meant to check if the code is actually in order.
 
 // Array that needs sorting
 int arr[] = {20,12,65,45,98,65,85,12,54,78,55,13,50,19,84,20,43,10};
+//added temp as a variable 
+int temp;
 int arrSize =  sizeof(arr)/sizeof(arr[0]);
 int main() {
 
@@ -22,9 +24,15 @@ int main() {
   for (unsigned j=arrSize;j>0;j--){
     for (unsigned i=1;i<j;i++){
       if (arr[i-1]>arr[i]){
-        arr[i-1] = arr[i];
+        temp= arr[i];
+        //switched this line backwords 
+        //arr[i-1] = arr[i];
         arr[i] = arr[i-1];
-        }
+
+
+//asssigned arr[i-1] to temp 
+   arr[i-1] = temp;
+  }
     }
   }
 
